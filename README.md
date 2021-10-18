@@ -1,13 +1,8 @@
 ### Hi there 👋
 
-
-- 🔭 I’m currently working on learning C#
 - 🌱 I’m currently learning C#
 - 👯 I’m looking to collaborate on GameDevelopment
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: omerfe.eker@gmail.com
 
-https://c.tenor.com/optjIPy99DkAAAAM/nba-sup.gif
+
+![Resim_Adi](https://c.tenor.com/optjIPy99DkAAAAM/nba-sup.gif)
