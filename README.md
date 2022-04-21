@@ -6,7 +6,7 @@
 - 📫 How to reach me: omerfe.eker@gmail.com
 
 ----------------------------------------------------
-omereker.com
+https://omereker.com/
 
 
 
