@@ -3,14 +3,9 @@
 <img src="https://c.tenor.com/optjIPy99DkAAAAM/nba-sup.gif" align="center" style="width: 50%" />
 </div>  
 
-
-
   
 
-- 🔭 Currently working on Mobile Development and Web3 👨‍💻  
-  
-
-- 🌱 Learning some cool techs that Facebook've made.  
+- 🌱 Working on some cool techs that Facebook've made.  
   
 
 - ⚡ Fun fact: I don't like fun facts.  
@@ -32,7 +27,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
 </div>
 
